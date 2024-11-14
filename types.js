@@ -18,4 +18,5 @@ console.log(name);
 console.log(typeof country);
 console.log(typeof age);
 console.log(typeof salary);
- 
+
+
